@@ -9,9 +9,9 @@ This is a game in which you will have to find the exit of a labyrinth without ge
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python random library
-- Python math library
+- Python `tkinter` library
+- Python `random` library
+- Python `math` library
 ## Game Captures
 ![Game capture 1](./preview/images/1.jpg)
 
